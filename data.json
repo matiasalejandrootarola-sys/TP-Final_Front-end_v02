@@ -1,0 +1,30 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "titulo":"PLC",
+            "descripcion": "Descripción 01",
+            "categoria": "1c",
+            "precio":"1d",
+            "img": "img/PLC.JPG"
+        },
+
+         {
+            "id": 2,
+            "titulo":"Soldadora Punto",
+            "descripcion": "Descripción 02",
+            "categoria": "2c",
+            "precio":"2d",
+            "img": "img/Soldadora2.JPG"
+        },
+
+         {
+            "id": 3,
+            "titulo":"Gripper",
+            "descripcion": "Descripción 03",
+            "categoria": "3c",
+            "precio":"3d",
+            "img": "img/Gripper.JPG"
+        }
+    ]
+}
